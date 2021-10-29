@@ -24,6 +24,6 @@ public class Main
         int value=1000;
         float inch=0.0254f;
         float meter =value*inch;
-        System.out.println("value of meter is "+meter);
+        System.out.println("The value of meter is "+meter);
     }
 }
